@@ -11,7 +11,7 @@ public class Application {
         int num1 = scan.nextInt();
         int num2 = scan.nextInt();
 
-        System.out.println("계산 결과 " + (num1 / num2));
+        System.out.println("계산 결과 " + (num1 + num2));
 
     }
 }
